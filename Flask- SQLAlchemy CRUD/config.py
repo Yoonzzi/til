@@ -1,0 +1,1 @@
+SQLALCHEMY_DATABASE_URI = 'sqlite:///C:\\Users\\XPS\\PycharmProjects\\test\\test.db'
